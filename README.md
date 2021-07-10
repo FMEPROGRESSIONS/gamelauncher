@@ -1,2 +1,3 @@
-# geometryfake
-It's our first game - geomfme. You May rate this and report bugs in latest version! 
+# Geometry Fake
+Geometry Fake - is Our runner, created on Unity.
+We want you to rate our game from 1 to 5, so we know where to go!
